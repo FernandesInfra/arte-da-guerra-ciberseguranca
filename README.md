@@ -62,4 +62,4 @@ Em uma análise pessoal e crítica sobre a leitura, a obra revela que a seguran�
 *Técnico em TI / Analista de Infraestrutura & Redes*  
 📍 Brasília, DF - Brasil
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/pulse/arte-da-guerra-na-era-cibern%C3%A9tica-estrat%C3%A9gias-%C3%A0-de-redes-fernandes-uyeyf)
